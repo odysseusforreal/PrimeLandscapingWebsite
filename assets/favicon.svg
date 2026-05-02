@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Bradford Prime Landscaping">
+  <rect width="64" height="64" rx="12" fill="#13261c"/>
+  <path d="M14 45c12-2 18-9 18-23 0 14 6 21 18 23" fill="none" stroke="#d9e9b8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M18 48h28" stroke="#b96f55" stroke-width="5" stroke-linecap="round"/>
+  <path d="M32 15v35" stroke="#7da65f" stroke-width="4" stroke-linecap="round"/>
+</svg>
